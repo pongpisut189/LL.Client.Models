@@ -1,5 +1,7 @@
 # LL.Client.Models
-i'm new for Blazor and i used Blazor radzen datatable for dynamic but i'm get an error following this code
+//i'm new for Blazor and i used Blazor radzen datatable for dynamic but i'm get an error following this code
+//yes and i'm new for github sorry for this
+
 
 @page "/Component"
 @using System;
